@@ -1,4 +1,4 @@
-````md
+
 # 👋 Hey, I'm Harshit Yadav
 
 <p align="center">
