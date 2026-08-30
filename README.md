@@ -1,117 +1,102 @@
-# Hi, I'm Harshit Yadav 👋
+# Harshit Yadav
 
-### Software Engineer | Full Stack / Backend Developer
+### Software Engineer · Full Stack / Backend
 
-I’m a Software Engineer based in Delhi, India, focused on building reliable web applications and backend systems.
+I build production web applications with a focus on **backend systems, APIs, real-time features, payments, and developer-friendly product experiences**.
 
-I primarily work with **TypeScript, JavaScript, React, Next.js, Node.js, and Express.js**, with hands-on experience in databases, payment systems, real-time applications, authentication, APIs, and production deployments.
-
-I enjoy working on problems where there is more to solve than just the UI — designing APIs, handling business logic, integrating external services, debugging production issues, and making systems reliable.
+Currently working primarily with **TypeScript, Node.js, React, Next.js, PostgreSQL, MongoDB, Redis, and Docker**.
 
 ---
 
-## 🚀 What I Work With
+## What I Do
 
-**Languages**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socket.io&logoColor=white)
-
-**Databases**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-
-**Tools & Infrastructure**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+- Build full-stack features from API and database design through frontend integration.
+- Work on backend workflows involving authentication, payments, bookings, transactions, and third-party services.
+- Build real-time experiences using WebSockets, Firebase, and video/communication platforms.
+- Debug production issues and improve reliability, performance, and maintainability.
+- Mentor interns and help with implementation, debugging, and code quality.
 
 ---
 
-## 💻 What I've Built
+## Tech Stack
 
-### Slydr
+### Languages
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-A privacy-focused gifting platform that allows people to send physical gifts without exchanging personal addresses.
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-I work across the product's web and backend systems, including:
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
 
-- Secure recipient-data handling
-- Claim-based gifting
-- OTP authentication
-- Razorpay payments
-- Customer and admin workflows
-- Production deployment
+### Data
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-### AstrologerDaddy
-
-A full-stack consultation platform with user, astrologer, and administration workflows.
-
-Some of the engineering work includes:
-
-- Appointment and consultation systems
-- Real-time chat and presence
-- Audio/video consultations
-- Live streaming
-- Multi-gateway payments
-- Wallet and transaction workflows
-- Payment webhooks and reconciliation
-- Background jobs and scheduled processing
-- Redis caching and API protection
-
----
-
-## 🧠 Currently Improving
-
-I'm currently focused on getting better at the fundamentals behind production software:
-
-- Backend architecture
-- System design
-- Data structures & algorithms
-- Database design and optimization
-- Distributed and real-time systems
-- Testing and reliability
-- Cloud and deployment
+### Infrastructure & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ---
 
-## 👨‍🏫 I Also Teach
+## Selected Work
 
-I've worked as a technical instructor, teaching full-stack web development and mentoring students through practical projects.
+### Slydr — Privacy-First Gifting
 
-I enjoy breaking down difficult technical concepts and helping other developers understand how things actually work.
+A platform for sending physical gifts without exposing personal addresses.
 
----
+**Worked on:** secure recipient-data handling, claim-based gifting, OTP authentication, Razorpay payments, customer workflows, admin functionality, and production deployment.
 
-## 📫 Connect With Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-yadavhrsit-181717?style=flat&logo=github)](https://github.com/yadavhrsit)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harshit_Yadav-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshit-yadav-sde/)
-[![Email](https://img.shields.io/badge/Email-inbox.harshityadav%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:inbox.harshityadav@gmail.com)
+**Stack:** Next.js · React · TypeScript · Express.js · PostgreSQL/Supabase · Docker · Nginx
 
 ---
 
-### ✨ A little about how I work
+### AstrologerDaddy — Real-Time Consultation Platform
 
-I like building things end-to-end, understanding the systems behind them, and keeping the implementation as simple as possible.
+A multi-sided consultation platform connecting users and astrologers through paid calls, chat, appointments, and live sessions.
 
-> Build it. Understand it. Improve it.
-```
+**Worked on:** appointment workflows, real-time chat and presence, audio/video consultations, live streaming, wallets, multi-gateway payments, refunds, settlements, payment reconciliation, background jobs, and Redis-based performance improvements.
+
+**Stack:** React · Node.js · Express.js · MongoDB · Redis · Socket.io · Firebase · Stream.io · Docker
+
+---
+
+## Engineering Interests
+
+Backend Architecture · System Design · Distributed Systems · Real-Time Applications · Databases · API Design · Developer Experience · Performance & Reliability
+
+---
+
+## Currently Learning
+
+I’m currently sharpening the fundamentals that help me grow from a full-stack developer into a stronger software engineer:
+
+- Data Structures & Algorithms
+- System Design
+- Database Design & Query Optimization
+- Backend Architecture
+- Cloud & Production Infrastructure
+- Testing & Software Reliability
+
+---
+
+## Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-yadavhrsit-181717?style=flat-square&logo=github)](https://github.com/yadavhrsit)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harshit_Yadav-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshit-yadav-sde/)
+[![Email](https://img.shields.io/badge/Email-inbox.harshityadav%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:inbox.harshityadav@gmail.com)
+
+---
+
+> Build useful things. Understand how they work. Keep improving.
