@@ -1,102 +1,335 @@
-# Harshit Yadav
+````md
+# 👋 Hey, I'm Harshit Yadav
 
-### Software Engineer · Full Stack / Backend
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Engineer;Full+Stack+%7C+Backend+Developer;TypeScript+%7C+Node.js+%7C+React+%7C+ASP.NET+Core;Building+Production+Systems+%7C+Learning+Every+Day" alt="Typing SVG" />
+</p>
 
-I build production web applications with a focus on **backend systems, APIs, real-time features, payments, and developer-friendly product experiences**.
-
-Currently working primarily with **TypeScript, Node.js, React, Next.js, PostgreSQL, MongoDB, Redis, and Docker**.
-
----
-
-## What I Do
-
-- Build full-stack features from API and database design through frontend integration.
-- Work on backend workflows involving authentication, payments, bookings, transactions, and third-party services.
-- Build real-time experiences using WebSockets, Firebase, and video/communication platforms.
-- Debug production issues and improve reliability, performance, and maintainability.
-- Mentor interns and help with implementation, debugging, and code quality.
+<p align="center">
+  <a href="https://github.com/yadavhrsit">
+    <img src="https://komarev.com/ghpvc/?username=yadavhrsit&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  </a>
+  <a href="https://github.com/yadavhrsit?tab=followers">
+    <img src="https://img.shields.io/github/followers/yadavhrsit?label=Followers&style=flat" alt="followers" />
+  </a>
+</p>
 
 ---
 
-## Tech Stack
+## 🧑‍💻 About Me
 
-### Languages
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+I'm a **Software Engineer** focused on building production web applications and backend systems.
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+My work spans **frontend, backend, databases, real-time communication, payments, authentication, APIs, and deployment**.
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
+I primarily work with the **JavaScript/TypeScript ecosystem**, while also working with **C# and ASP.NET Core**.
 
-### Data
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-### Infrastructure & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+```text
+Frontend       → React · Next.js · Tailwind CSS
+Backend        → Node.js · Express.js · ASP.NET Core
+Languages      → TypeScript · JavaScript · C# · SQL
+Databases      → PostgreSQL · MongoDB · MySQL · Redis
+Architecture   → REST APIs · Real-Time Systems · Authentication · Payments
+Infrastructure → Docker · Nginx · CI/CD · Linux
+````
 
 ---
 
-## Selected Work
+# ⚡ Tech Stack
 
-### Slydr — Privacy-First Gifting
+## 🟨 MERN
 
-A platform for sending physical gifts without exposing personal addresses.
+### MongoDB · Express.js · React · Node.js
 
-**Worked on:** secure recipient-data handling, claim-based gifting, OTP authentication, Razorpay payments, customer workflows, admin functionality, and production deployment.
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,typescript,javascript" />
+</p>
 
-**Stack:** Next.js · React · TypeScript · Express.js · PostgreSQL/Supabase · Docker · Nginx
+**Popular ecosystem**
 
----
+```text
+React
+├── React Router
+├── Context API
+├── Hooks
+├── Framer Motion
+├── Axios
+└── Tailwind CSS
 
-### AstrologerDaddy — Real-Time Consultation Platform
+Node.js
+├── Express.js
+├── Socket.io
+├── JWT
+├── REST APIs
+├── Multer
+├── Sharp
+└── Zod
 
-A multi-sided consultation platform connecting users and astrologers through paid calls, chat, appointments, and live sessions.
-
-**Worked on:** appointment workflows, real-time chat and presence, audio/video consultations, live streaming, wallets, multi-gateway payments, refunds, settlements, payment reconciliation, background jobs, and Redis-based performance improvements.
-
-**Stack:** React · Node.js · Express.js · MongoDB · Redis · Socket.io · Firebase · Stream.io · Docker
-
----
-
-## Engineering Interests
-
-Backend Architecture · System Design · Distributed Systems · Real-Time Applications · Databases · API Design · Developer Experience · Performance & Reliability
-
----
-
-## Currently Learning
-
-I’m currently sharpening the fundamentals that help me grow from a full-stack developer into a stronger software engineer:
-
-- Data Structures & Algorithms
-- System Design
-- Database Design & Query Optimization
-- Backend Architecture
-- Cloud & Production Infrastructure
-- Testing & Software Reliability
+MongoDB
+├── Mongoose
+├── Aggregation
+├── Indexing
+└── Transactions
+```
 
 ---
 
-## Connect
+# 🐘 PERN
 
-[![GitHub](https://img.shields.io/badge/GitHub-yadavhrsit-181717?style=flat-square&logo=github)](https://github.com/yadavhrsit)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harshit_Yadav-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshit-yadav-sde/)
-[![Email](https://img.shields.io/badge/Email-inbox.harshityadav%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:inbox.harshityadav@gmail.com)
+### PostgreSQL · Express.js · React · Node.js
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,express,react,nodejs,typescript" />
+</p>
+
+**Popular ecosystem**
+
+```text
+PostgreSQL
+├── SQL
+├── Indexing
+├── Transactions
+├── Joins
+├── Query Optimization
+└── Relational Data Modeling
+
+Node.js
+├── Express.js
+├── REST APIs
+├── JWT
+├── Socket.io
+├── Axios
+├── Zod
+└── Background Jobs
+```
 
 ---
 
-> Build useful things. Understand how they work. Keep improving.
+# 🔷 ASP.NET / C#
+
+### ASP.NET Core · C#
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet" />
+</p>
+
+**Current stack**
+
+```text
+C#
+├── LINQ
+├── Async / Await
+├── Generics
+├── OOP
+└── Exception Handling
+
+ASP.NET Core
+├── Web API
+├── Controllers
+├── Middleware
+├── Dependency Injection
+├── Authentication / Authorization
+├── JWT
+└── Configuration
+
+Data
+├── Entity Framework Core
+├── SQL Server
+├── PostgreSQL
+└── Migrations
+
+API & Development
+├── REST APIs
+├── Swagger / OpenAPI
+├── Validation
+└── Logging
+```
+
+---
+
+# 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis" />
+</p>
+
+```text
+MongoDB       → Document databases · Mongoose · Aggregation
+PostgreSQL    → Relational data · SQL · Indexing · Transactions
+MySQL         → Relational data · SQL
+Redis         → Caching · Fast lookups · Real-time use cases
+```
+
+---
+
+# 🔌 APIs & Integrations
+
+I have worked with systems involving:
+
+* REST APIs
+* Authentication & authorization
+* JWT
+* Webhooks
+* OTP authentication
+* Payment gateways
+* Real-time communication
+* Third-party APIs
+* Background jobs
+* Scheduled processing
+
+### Integrations
+
+<p>
+  <img src="https://skillicons.dev/icons?i=firebase" />
+</p>
+
+**Payments:** Razorpay · PhonePe · CCAvenue
+**Communication:** Firebase · Stream.io · Socket.io
+**Authentication:** OTP-based authentication · JWT
+**Other:** Google Maps APIs · External service integrations
+
+---
+
+# 🐳 DevOps & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,nginx,linux,github,git" />
+</p>
+
+```text
+Docker
+Nginx
+Linux
+Git
+GitHub
+CI/CD
+Production Deployments
+Logging & Monitoring
+```
+
+---
+
+# 🧪 Testing
+
+```text
+Playwright
+E2E Testing
+API Testing
+Debugging
+Validation
+Error Handling
+```
+
+---
+
+# 🚀 Selected Work
+
+## Slydr
+
+### Privacy-first gifting platform
+
+A platform that allows users to send physical gifts without exchanging personal addresses.
+
+**Worked on**
+
+* Secure recipient-data handling
+* Claim-based gifting
+* OTP authentication
+* Razorpay payments
+* Customer workflows
+* Admin functionality
+* Production deployment
+
+**Stack**
+
+`Next.js` `React` `TypeScript` `Express.js` `PostgreSQL` `Docker` `Nginx`
+
+---
+
+## AstrologerDaddy
+
+### Real-time consultation platform
+
+A full-stack platform connecting users and astrologers through consultations, appointments, chat, calls, live streams, and payments.
+
+**Worked on**
+
+* Appointment and consultation workflows
+* Real-time chat and presence
+* Audio/video consultations
+* Live streaming
+* Wallet and transaction systems
+* Multiple payment gateways
+* Payment webhooks and reconciliation
+* Background jobs
+* Redis caching
+* Authentication and authorization
+* Admin systems
+
+**Stack**
+
+`React` `Node.js` `Express.js` `MongoDB` `Redis` `Socket.io` `Firebase` `Stream.io` `Docker`
+
+---
+
+# 🧠 Engineering Interests
+
+```text
+Backend Engineering
+System Design
+API Architecture
+Distributed Systems
+Real-Time Applications
+Database Design
+Performance
+Reliability
+Developer Experience
+```
+
+---
+
+# 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yadavhrsit&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yadavhrsit&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadavhrsit&layout=compact&hide_border=true&theme=tokyonight" />
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yadavhrsit&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://github.com/yadavhrsit">
+    <img src="https://img.shields.io/badge/GitHub-yadavhrsit-181717?style=for-the-badge&logo=github" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/harshit-yadav-sde/">
+    <img src="https://img.shields.io/badge/LinkedIn-Harshit%20Yadav-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+
+  <a href="mailto:inbox.harshityadav@gmail.com">
+    <img src="https://img.shields.io/badge/Email-inbox.harshityadav%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+
+### 💡 Build → Learn → Improve → Repeat
+
+</p>
+```
