@@ -4,8 +4,6 @@
 
 ### Software Engineer · Full Stack · Backend
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&repeat=true&width=760&height=45&lines=Building+production+web+applications;Backend+%7C+Real-Time+%7C+Payments+%7C+Cloud;TypeScript+%7C+React+%7C+Node.js+%7C+ASP.NET+Core;Always+learning%2C+building%2C+and+shipping" alt="Typing animation" />
-
 <p>
   <a href="https://github.com/yadavhrsit">
     <img src="https://img.shields.io/badge/GitHub-yadavhrsit-181717?style=for-the-badge&logo=github" alt="GitHub"/>
